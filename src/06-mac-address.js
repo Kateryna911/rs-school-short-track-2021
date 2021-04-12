@@ -3,4 +3,3 @@ function isMAC48Address(n) {
 }
 
 module.exports = isMAC48Address;
-
