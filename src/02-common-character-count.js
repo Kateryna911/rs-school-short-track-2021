@@ -9,8 +9,7 @@ function getCommonCharacterCount(s1, s2) {
       s3 = s3.replace(reg, ' ');
     }
     s4 = s4.replace(reg, ' ');
-  }
-  return counter;
+  } return counter;
 }
 
 module.exports = getCommonCharacterCount;
